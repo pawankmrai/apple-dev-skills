@@ -17,6 +17,7 @@ A collection of Apple platform development skills covering iOS, macOS, iPadOS, S
 | **Networking — URLSession & async/await** | [networking-urlsession-async](skills/2026-05-14-networking-urlsession-async.md) | Intermediate |
 | **Performance — Memory & Profiling** | [performance-memory-profiling](skills/2026-05-14-performance-memory-profiling.md) | Intermediate |
 | **App Architecture — MVVM, TCA, Coordinators** | [app-architecture-mvvm-tca](skills/2026-05-14-app-architecture-mvvm-tca.md) | Intermediate |
+| **Clean Architecture for iOS** | [clean-architecture-ios](skills/2026-05-14-clean-architecture-ios.md) | Advanced |
 
 Each skill covers a focused topic with practical code examples, best practices, and references to official Apple documentation.
 
@@ -36,5 +37,6 @@ apple-dev-skills/
     ├── 2026-05-14-combine-observation-framework.md
     ├── 2026-05-14-networking-urlsession-async.md
     ├── 2026-05-14-performance-memory-profiling.md
-    └── 2026-05-14-app-architecture-mvvm-tca.md
+    ├── 2026-05-14-app-architecture-mvvm-tca.md
+    └── 2026-05-14-clean-architecture-ios.md
 ```
