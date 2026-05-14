@@ -13,16 +13,25 @@ Each skill file covers a focused Apple development topic with practical code exa
 
 ## Topics Covered
 
-- **Swift** — Language features, concurrency, protocols, generics
-- **SwiftUI** — Views, modifiers, animations, navigation, data flow
-- **UIKit / AppKit** — When and how to bridge with SwiftUI
-- **Xcode** — Build system, debugging, Instruments, testing
-- **Foundation Models** — On-device AI with Apple Intelligence
-- **Core Data / SwiftData** — Persistence and data modeling
-- **Combine / Observation** — Reactive and observable patterns
-- **Networking** — URLSession, async/await networking patterns
-- **Performance** — Memory management, profiling, optimization
-- **App Architecture** — MVVM, TCA, coordinator patterns
+| Topic | Skill | Difficulty |
+|-------|-------|------------|
+| **Swift — Concurrency & Actors** | [swift-concurrency-actors](skills/2026-05-14-swift-concurrency-actors.md) | Intermediate |
+| **Swift — Protocols & Generics** | [swift-protocols-generics](skills/2026-05-14-swift-protocols-generics.md) | Intermediate |
+| **SwiftUI — Navigation & Data Flow** | [swiftui-navigation-data-flow](skills/2026-05-14-swiftui-navigation-data-flow.md) | Intermediate |
+| **UIKit / AppKit — SwiftUI Interop** | [uikit-appkit-swiftui-interop](skills/2026-05-14-uikit-appkit-swiftui-interop.md) | Intermediate |
+| **Xcode — Debugging & Instruments** | [xcode-debugging-instruments](skills/2026-05-14-xcode-debugging-instruments.md) | Intermediate |
+| **Foundation Models — On-Device AI** | [foundation-models-framework](skills/2026-05-14-foundation-models-framework.md) | Intermediate |
+| **SwiftData — Persistence** | [swiftdata-persistence](skills/2026-05-14-swiftdata-persistence.md) | Intermediate |
+| **Combine & Observation Framework** | [combine-observation-framework](skills/2026-05-14-combine-observation-framework.md) | Intermediate |
+| **Networking — URLSession & async/await** | [networking-urlsession-async](skills/2026-05-14-networking-urlsession-async.md) | Intermediate |
+| **Performance — Memory & Profiling** | [performance-memory-profiling](skills/2026-05-14-performance-memory-profiling.md) | Intermediate |
+| **App Architecture — MVVM, TCA, Coordinators** | [app-architecture-mvvm-tca](skills/2026-05-14-app-architecture-mvvm-tca.md) | Intermediate |
+
+## Stats
+
+- **Total skills:** 11
+- **Total lines of code & content:** 2,049
+- **Last updated:** 2026-05-14
 
 ---
 
