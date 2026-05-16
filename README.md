@@ -20,3 +20,7 @@ A daily-updated collection of Apple platform development skills covering iOS, ma
 | SwiftUI Navigation and Data Flow | [swiftui-navigation-data-flow](skills/swiftui-navigation-data-flow.md) | Intermediate |
 | UIKit and AppKit Interop with SwiftUI | [uikit-appkit-swiftui-interop](skills/uikit-appkit-swiftui-interop.md) | Intermediate |
 | Xcode Debugging and Instruments | [xcode-debugging-instruments](skills/xcode-debugging-instruments.md) | Intermediate |
+
+## License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
