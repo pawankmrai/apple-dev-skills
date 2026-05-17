@@ -13,6 +13,7 @@ A daily-updated collection of Apple platform development skills covering iOS, ma
 | Networking with URLSession and async/await | [networking-urlsession-async](skills/networking-urlsession-async.md) | Intermediate |
 | Performance — Memory Management and Profiling | [performance-memory-profiling](skills/performance-memory-profiling.md) | Intermediate |
 | Swift Concurrency — Actors | [swift-concurrency-actors](skills/swift-concurrency-actors.md) | Intermediate |
+| Swift Result Builders — Creating Custom DSLs | [swift-result-builders](skills/swift-result-builders.md) | Intermediate |
 | Swift Protocols and Generics — Building Flexible Abstractions | [swift-protocols-generics](skills/swift-protocols-generics.md) | Intermediate |
 | Swift Testing Framework — Modern Unit Testing in Swift | [swift-testing-framework](skills/swift-testing-framework.md) | Intermediate |
 | SwiftData — Modern Persistence for Apple Apps | [swiftdata-persistence](skills/swiftdata-persistence.md) | Intermediate |
