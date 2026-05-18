@@ -17,6 +17,7 @@ A daily-updated collection of Apple platform development skills covering iOS, ma
 | Swift Protocols and Generics — Building Flexible Abstractions | [swift-protocols-generics](skills/swift-protocols-generics.md) | Intermediate |
 | Swift Testing Framework — Modern Unit Testing in Swift | [swift-testing-framework](skills/swift-testing-framework.md) | Intermediate |
 | SwiftData — Modern Persistence for Apple Apps | [swiftdata-persistence](skills/swiftdata-persistence.md) | Intermediate |
+| SwiftUI Liquid Glass — Building with the New Design Language | [swiftui-liquid-glass](skills/swiftui-liquid-glass.md) | Intermediate |
 | SwiftUI Accessibility: VoiceOver, Dynamic Type, and Custom Actions | [swiftui-accessibility-voiceover](skills/swiftui-accessibility-voiceover.md) | Intermediate |
 | SwiftUI Navigation and Data Flow | [swiftui-navigation-data-flow](skills/swiftui-navigation-data-flow.md) | Intermediate |
 | UIKit and AppKit Interop with SwiftUI | [uikit-appkit-swiftui-interop](skills/uikit-appkit-swiftui-interop.md) | Intermediate |
