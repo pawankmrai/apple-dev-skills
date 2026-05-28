@@ -16,6 +16,7 @@ A daily-updated collection of Apple platform development skills covering iOS, ma
 | Swift Charts 3D — Data Visualization with Chart3D | [swift-charts-3d](skills/swift-charts-3d.md) | Intermediate |
 | Swift InlineArray and Span — Safe, High-Performance Memory | [swift-inlinearray-span](skills/swift-inlinearray-span.md) | Intermediate |
 | Swift Result Builders — Creating Custom DSLs | [swift-result-builders](skills/swift-result-builders.md) | Intermediate |
+| Swift Macros — Compile-Time Code Generation | [swift-macros](skills/swift-macros.md) | Intermediate |
 | Swift Protocols and Generics — Building Flexible Abstractions | [swift-protocols-generics](skills/swift-protocols-generics.md) | Intermediate |
 | Swift Testing Framework — Modern Unit Testing in Swift | [swift-testing-framework](skills/swift-testing-framework.md) | Intermediate |
 | SwiftData — Modern Persistence for Apple Apps | [swiftdata-persistence](skills/swiftdata-persistence.md) | Intermediate |
