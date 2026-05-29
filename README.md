@@ -25,6 +25,7 @@ A daily-updated collection of Apple platform development skills covering iOS, ma
 | SwiftUI Navigation and Data Flow | [swiftui-navigation-data-flow](skills/swiftui-navigation-data-flow.md) | Intermediate |
 | SwiftUI Rich Text Editing with TextEditor and AttributedString | [swiftui-rich-text-editing](skills/swiftui-rich-text-editing.md) | Intermediate |
 | UIKit and AppKit Interop with SwiftUI | [uikit-appkit-swiftui-interop](skills/uikit-appkit-swiftui-interop.md) | Intermediate |
+| visionOS Spatial Computing — Persistence, Surfaces, and Spatial Scenes | [visionos-spatial-computing](skills/visionos-spatial-computing.md) | Intermediate |
 | Xcode Debugging and Instruments | [xcode-debugging-instruments](skills/xcode-debugging-instruments.md) | Intermediate |
 
 ## License
