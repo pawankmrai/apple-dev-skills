@@ -7,6 +7,7 @@ A daily-updated collection of Apple platform development skills covering iOS, ma
 | Topic | File | Difficulty |
 |-------|------|------------|
 | App Architecture — MVVM, TCA, and Coordinator Patterns | [app-architecture-mvvm-tca](skills/app-architecture-mvvm-tca.md) | Intermediate |
+| App Intents — Interactive Snippets and Visual Intelligence | [app-intents-interactive-snippets](skills/app-intents-interactive-snippets.md) | Intermediate |
 | Clean Architecture for iOS Apps | [clean-architecture-ios](skills/clean-architecture-ios.md) | Advanced |
 | Combine and the Observation Framework | [combine-observation-framework](skills/combine-observation-framework.md) | Intermediate |
 | Foundation Models Framework — On-Device AI in Swift | [foundation-models-framework](skills/foundation-models-framework.md) | Intermediate |
