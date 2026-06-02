@@ -22,6 +22,7 @@ A daily-updated collection of Apple platform development skills covering iOS, ma
 | Swift Protocols and Generics — Building Flexible Abstractions | [swift-protocols-generics](skills/swift-protocols-generics.md) | Intermediate |
 | Swift Testing Framework — Modern Unit Testing in Swift | [swift-testing-framework](skills/swift-testing-framework.md) | Intermediate |
 | String Catalogs — Modern Localization in Swift | [string-catalogs-localization](skills/string-catalogs-localization.md) | Intermediate |
+| Swift Package Plugins — Build Tools and Custom Commands | [swift-package-plugins](skills/swift-package-plugins.md) | Intermediate |
 | SwiftData — Modern Persistence for Apple Apps | [swiftdata-persistence](skills/swiftdata-persistence.md) | Intermediate |
 | SwiftUI Liquid Glass — Building with the New Design Language | [swiftui-liquid-glass](skills/swiftui-liquid-glass.md) | Intermediate |
 | SwiftUI Animations — From Implicit to Keyframe | [swiftui-animations](skills/swiftui-animations.md) | Intermediate |
