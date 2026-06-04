@@ -14,6 +14,7 @@ A daily-updated collection of Apple platform development skills covering iOS, ma
 | Foundation Models Framework — On-Device AI in Swift | [foundation-models-framework](skills/foundation-models-framework.md) | Intermediate |
 | Networking with URLSession and async/await | [networking-urlsession-async](skills/networking-urlsession-async.md) | Intermediate |
 | Performance — Memory Management and Profiling | [performance-memory-profiling](skills/performance-memory-profiling.md) | Intermediate |
+| Swift 6.2 Approachable Concurrency — nonisolated, @concurrent, Typed Throws | [swift-approachable-concurrency](skills/swift-approachable-concurrency.md) | Intermediate |
 | Swift Concurrency — Actors | [swift-concurrency-actors](skills/swift-concurrency-actors.md) | Intermediate |
 | Swift Charts 3D — Data Visualization with Chart3D | [swift-charts-3d](skills/swift-charts-3d.md) | Intermediate |
 | Swift InlineArray and Span — Safe, High-Performance Memory | [swift-inlinearray-span](skills/swift-inlinearray-span.md) | Intermediate |
