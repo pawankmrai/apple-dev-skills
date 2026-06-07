@@ -50,26 +50,24 @@ jobs:
         run: |
           SKILL_COUNT="${{ steps.count.outputs.count }}"
           DATE=$(date -u +"%Y-%m-%d")
-          NOTES=$(cat <<'NOTES_EOF'
-## Install
-
-Download **apple-skills.skill** from this release and open it in Claude Cowork to install with one click.
-
-Or use the install script:
-
-    curl -fsSL https://raw.githubusercontent.com/pawankmrai/apple-dev-skills/main/install.sh | bash
-
-## Contents
-NOTES_EOF
-          )
-          NOTES="${NOTES}
-
-${SKILL_COUNT} Apple platform development skill files covering Swift, SwiftUI, UIKit, Xcode, SwiftData, WidgetKit, visionOS, and more.
-
-_Updated daily._"
+          printf '%s\n' \
+            '## Install' \
+            '' \
+            'Download **apple-skills.skill** from this release and open it in Claude Cowork to install with one click.' \
+            '' \
+            'Or run the install script:' \
+            '' \
+            '    curl -fsSL https://raw.githubusercontent.com/pawankmrai/apple-dev-skills/main/install.sh | bash' \
+            '' \
+            '## Contents' \
+            '' \
+            "${SKILL_COUNT} Apple platform development skill files covering Swift, SwiftUI, UIKit, Xcode, SwiftData, WidgetKit, visionOS, and more." \
+            '' \
+            '_Updated daily._' \
+            > /tmp/notes.md
           gh release create latest \
             dist/apple-skills.skill \
             --title "Apple Dev Skills — ${DATE} (${SKILL_COUNT} skills)" \
-            --notes "${NOTES}" \
+            --notes-file /tmp/notes.md \
             --latest \
             --tag latest
