@@ -2,6 +2,28 @@
 
 A daily-updated collection of Apple platform development skills covering iOS, macOS, iPadOS, Swift, SwiftUI, Xcode, and the broader Apple ecosystem. Each skill is a focused, intermediate-level guide with practical code examples, best practices, and references to official Apple documentation.
 
+## Install
+
+### One-liner (downloads all skills locally)
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/pawankmrai/apple-dev-skills/main/install.sh | bash
+```
+
+Add `-- --cowork` to also install as a Cowork skill on macOS:
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/pawankmrai/apple-dev-skills/main/install.sh | bash -s -- --cowork
+```
+
+### Cowork .skill file
+
+Download the latest packaged release and open it in [Claude Cowork](https://claude.ai) to install with one click:
+
+**[⬇ Download apple-skills.skill](https://github.com/pawankmrai/apple-dev-skills/releases/latest/download/apple-skills.skill)**
+
+A new release is published automatically on every push to `main`.
+
 ## Skills
 
 | Topic | File | Difficulty |
