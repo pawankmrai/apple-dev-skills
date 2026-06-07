@@ -1,0 +1,71 @@
+name: Package and Release Skill
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'skills/**'
+      - 'SKILL.md'
+      - 'README.md'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Count skills
+        id: count
+        run: |
+          COUNT=$(ls skills/*.md | wc -l | tr -d ' ')
+          echo "count=$COUNT" >> "$GITHUB_OUTPUT"
+          echo "Skills found: $COUNT"
+
+      - name: Package .skill file
+        run: |
+          mkdir -p dist/apple-skills/skills
+          cp SKILL.md dist/apple-skills/SKILL.md
+          cp README.md dist/apple-skills/README.md
+          cp skills/*.md dist/apple-skills/skills/
+          cd dist
+          zip -r apple-skills.skill apple-skills/
+          echo "Packaged $(ls apple-skills/skills/*.md | wc -l) skills into apple-skills.skill"
+          ls -lh apple-skills.skill
+
+      - name: Delete existing 'latest' release (if any)
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh release delete latest --yes 2>/dev/null || true
+          git push origin :refs/tags/latest 2>/dev/null || true
+
+      - name: Create release with .skill asset
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          SKILL_COUNT="${{ steps.count.outputs.count }}"
+          DATE=$(date -u +"%Y-%m-%d")
+          gh release create latest \
+            dist/apple-skills.skill \
+            --title "Apple Dev Skills — ${DATE} (${SKILL_COUNT} skills)" \
+            --notes "## Install
+
+Download [apple-skills.skill](https://github.com/pawankmrai/apple-dev-skills/releases/latest/download/apple-skills.skill) and open it in Claude Cowork to install with one click.
+
+Or use the install script:
+\`\`\`bash
+curl -fsSL https://raw.githubusercontent.com/pawankmrai/apple-dev-skills/main/install.sh | bash
+\`\`\`
+
+## Contents
+
+${SKILL_COUNT} Apple platform development skill files covering Swift, SwiftUI, UIKit, Xcode, SwiftData, WidgetKit, visionOS, and more.
+
+_Updated daily._" \
+            --latest \
+            --tag latest
