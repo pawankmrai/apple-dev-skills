@@ -69,5 +69,4 @@ jobs:
             dist/apple-skills.skill \
             --title "Apple Dev Skills — ${DATE} (${SKILL_COUNT} skills)" \
             --notes-file /tmp/notes.md \
-            --latest \
-            --tag latest
+            --latest
