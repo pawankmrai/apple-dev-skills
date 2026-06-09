@@ -44,6 +44,7 @@ A new release is published automatically on every push to `main`.
 | Swift Macros — Compile-Time Code Generation | [swift-macros](skills/swift-macros.md) | Intermediate |
 | Swift Protocols and Generics — Building Flexible Abstractions | [swift-protocols-generics](skills/swift-protocols-generics.md) | Intermediate |
 | Swift Testing Framework — Modern Unit Testing in Swift | [swift-testing-framework](skills/swift-testing-framework.md) | Intermediate |
+| StoreKit 2 — In-App Purchases and Subscriptions | [storekit2-in-app-purchases](skills/storekit2-in-app-purchases.md) | Intermediate |
 | String Catalogs — Modern Localization in Swift | [string-catalogs-localization](skills/string-catalogs-localization.md) | Intermediate |
 | Swift Package Plugins — Build Tools and Custom Commands | [swift-package-plugins](skills/swift-package-plugins.md) | Intermediate |
 | SwiftData — Modern Persistence for Apple Apps | [swiftdata-persistence](skills/swiftdata-persistence.md) | Intermediate |
