@@ -54,6 +54,7 @@ A new release is published automatically on every push to `main`.
 | SwiftUI Navigation and Data Flow | [swiftui-navigation-data-flow](skills/swiftui-navigation-data-flow.md) | Intermediate |
 | SwiftUI Rich Text Editing with TextEditor and AttributedString | [swiftui-rich-text-editing](skills/swiftui-rich-text-editing.md) | Intermediate |
 | SwiftUI WebView — Native Web Content with WebKit | [swiftui-webview-webkit](skills/swiftui-webview-webkit.md) | Intermediate |
+| TipKit — Contextual User Tips in SwiftUI | [tipkit-contextual-tips](skills/tipkit-contextual-tips.md) | Intermediate |
 | UIKit and AppKit Interop with SwiftUI | [uikit-appkit-swiftui-interop](skills/uikit-appkit-swiftui-interop.md) | Intermediate |
 | visionOS Spatial Computing — Persistence, Surfaces, and Spatial Scenes | [visionos-spatial-computing](skills/visionos-spatial-computing.md) | Intermediate |
 | **WidgetKit — Home Screen, Lock Screen, and Interactive Widgets** | [widgetkit-home-lock-screen](skills/widgetkit-home-lock-screen.md) | Intermediate |
