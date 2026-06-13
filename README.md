@@ -49,6 +49,7 @@ A new release is published automatically on every push to `main`.
 | Swift Protocols and Generics — Building Flexible Abstractions | [swift-protocols-generics](skills/swift-protocols-generics.md) | Intermediate |
 | Swift Result Builders — Creating Custom DSLs | [swift-result-builders](skills/swift-result-builders.md) | Intermediate |
 | Swift Testing Framework — Modern Unit Testing in Swift | [swift-testing-framework](skills/swift-testing-framework.md) | Intermediate |
+| Swift Typed Throws — Precise Error Handling in Swift 6 | [swift-typed-throws](skills/swift-typed-throws.md) | Intermediate |
 | SwiftData — Modern Persistence for Apple Apps | [swiftdata-persistence](skills/swiftdata-persistence.md) | Intermediate |
 | SwiftUI Accessibility: VoiceOver, Dynamic Type, and Custom Actions | [swiftui-accessibility-voiceover](skills/swiftui-accessibility-voiceover.md) | Intermediate |
 | SwiftUI Animations — From Implicit to Keyframe | [swiftui-animations](skills/swiftui-animations.md) | Intermediate |
