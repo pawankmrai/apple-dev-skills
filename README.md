@@ -32,6 +32,7 @@ A new release is published automatically on every push to `main`.
 | App Architecture — MVVM, TCA, and Coordinator Patterns | [app-architecture-mvvm-tca](skills/app-architecture-mvvm-tca.md) | Intermediate |
 | App Intents — Interactive Snippets and Visual Intelligence | [app-intents-interactive-snippets](skills/app-intents-interactive-snippets.md) | Intermediate |
 | Background Tasks and Live Activities | [background-tasks-live-activities](skills/background-tasks-live-activities.md) | Intermediate |
+| CloudKit — iCloud Data Sync for Apple Apps | [cloudkit-sync](skills/cloudkit-sync.md) | Intermediate |
 | Clean Architecture for iOS Apps | [clean-architecture-ios](skills/clean-architecture-ios.md) | Advanced |
 | Combine and the Observation Framework | [combine-observation-framework](skills/combine-observation-framework.md) | Intermediate |
 | Foundation Models Framework — On-Device AI in Swift | [foundation-models-framework](skills/foundation-models-framework.md) | Intermediate |
