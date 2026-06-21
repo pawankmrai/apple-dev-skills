@@ -34,6 +34,7 @@ A new release is published automatically on every push to `main`.
 | Clean Architecture for iOS Apps | [clean-architecture-ios](skills/clean-architecture-ios.md) | Advanced |
 | CloudKit — iCloud Data Sync for Apple Apps | [cloudkit-sync](skills/cloudkit-sync.md) | Intermediate |
 | Combine and the Observation Framework | [combine-observation-framework](skills/combine-observation-framework.md) | Intermediate |
+| Foundation Models Framework — Dynamic Profiles and Multi-Agent Workflows | [foundation-models-dynamic-profiles](skills/foundation-models-dynamic-profiles.md) | Advanced |
 | Foundation Models Framework — On-Device AI in Swift | [foundation-models-framework](skills/foundation-models-framework.md) | Intermediate |
 | Networking with URLSession and async/await | [networking-urlsession-async](skills/networking-urlsession-async.md) | Intermediate |
 | NowPlaying Framework — Media Sessions for System Surfaces | [nowplaying-framework](skills/nowplaying-framework.md) | Intermediate |
