@@ -60,6 +60,7 @@ A new release is published automatically on every push to `main`.
 | SwiftUI Navigation and Data Flow | [swiftui-navigation-data-flow](skills/swiftui-navigation-data-flow.md) | Intermediate |
 | SwiftUI Reorderable Containers — Drag-to-Reorder for Lists, Grids, and Custom Layouts | [swiftui-reorderable-containers](skills/swiftui-reorderable-containers.md) | Intermediate |
 | SwiftUI Rich Text Editing with TextEditor and AttributedString | [swiftui-rich-text-editing](skills/swiftui-rich-text-editing.md) | Intermediate |
+| SwiftUI Swipe Actions Beyond List — swipeActionsContainer in iOS 27 | [swiftui-swipe-actions](skills/swiftui-swipe-actions.md) | Intermediate |
 | SwiftUI WebView — Native Web Content with WebKit | [swiftui-webview-webkit](skills/swiftui-webview-webkit.md) | Intermediate |
 | TipKit — Contextual User Tips in SwiftUI | [tipkit-contextual-tips](skills/tipkit-contextual-tips.md) | Intermediate |
 | UIKit and AppKit Interop with SwiftUI | [uikit-appkit-swiftui-interop](skills/uikit-appkit-swiftui-interop.md) | Intermediate |
