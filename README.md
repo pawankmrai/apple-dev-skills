@@ -28,6 +28,7 @@ A new release is published automatically on every push to `main`.
 
 | Topic | File | Difficulty |
 |-------|------|------------|
+| AlarmKit — Scheduling System Alarms and Timers | [alarmkit-scheduling-alarms](skills/alarmkit-scheduling-alarms.md) | Intermediate |
 | App Architecture — MVVM, TCA, and Coordinator Patterns | [app-architecture-mvvm-tca](skills/app-architecture-mvvm-tca.md) | Intermediate |
 | App Intents — Interactive Snippets and Visual Intelligence | [app-intents-interactive-snippets](skills/app-intents-interactive-snippets.md) | Intermediate |
 | Background Tasks and Live Activities | [background-tasks-live-activities](skills/background-tasks-live-activities.md) | Intermediate |
