@@ -68,6 +68,7 @@ A new release is published automatically on every push to `main`.
 | UIKit and AppKit Interop with SwiftUI | [uikit-appkit-swiftui-interop](skills/uikit-appkit-swiftui-interop.md) | Intermediate |
 | visionOS Spatial Computing — Persistence, Surfaces, and Spatial Scenes | [visionos-spatial-computing](skills/visionos-spatial-computing.md) | Intermediate |
 | WidgetKit — Home Screen, Lock Screen, and Interactive Widgets | [widgetkit-home-lock-screen](skills/widgetkit-home-lock-screen.md) | Intermediate |
+| Xcode 27 Agent Skills — Apple's Built-In AI Guidance for Swift Developers | [xcode-agent-skills](skills/xcode-agent-skills.md) | Intermediate |
 | Xcode Debugging and Instruments | [xcode-debugging-instruments](skills/xcode-debugging-instruments.md) | Intermediate |
 
 ## License
