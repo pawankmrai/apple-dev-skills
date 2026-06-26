@@ -56,6 +56,7 @@ A new release is published automatically on every push to `main`.
 | SwiftUI Accessibility: VoiceOver, Dynamic Type, and Custom Actions | [swiftui-accessibility-voiceover](skills/swiftui-accessibility-voiceover.md) | Intermediate |
 | SwiftUI Adaptive Toolbars — Visibility Priority, Overflow Menus, and Pinned Actions | [swiftui-adaptive-toolbars](skills/swiftui-adaptive-toolbars.md) | Intermediate |
 | SwiftUI Animations — From Implicit to Keyframe | [swiftui-animations](skills/swiftui-animations.md) | Intermediate |
+| SwiftUI ContentBuilder — One Result Builder for All Content Types | [swiftui-contentbuilder](skills/swiftui-contentbuilder.md) | Intermediate |
 | SwiftUI Document API — WritableDocument, ReadableDocument, and Snapshot-Based Diffing | [swiftui-document-api](skills/swiftui-document-api.md) | Intermediate |
 | SwiftUI Item-Bound Dialogs and Alerts — Binding<T?> Presentations in iOS 27 | [swiftui-item-bound-presentations](skills/swiftui-item-bound-presentations.md) | Intermediate |
 | SwiftUI Liquid Glass — Building with the New Design Language | [swiftui-liquid-glass](skills/swiftui-liquid-glass.md) | Intermediate |
