@@ -43,6 +43,7 @@ A new release is published automatically on every push to `main`.
 | StoreKit 2 — In-App Purchases and Subscriptions | [storekit2-in-app-purchases](skills/storekit2-in-app-purchases.md) | Intermediate |
 | String Catalogs — Modern Localization in Swift | [string-catalogs-localization](skills/string-catalogs-localization.md) | Intermediate |
 | Swift 6.2 Approachable Concurrency — nonisolated, @concurrent, Typed Throws | [swift-approachable-concurrency](skills/swift-approachable-concurrency.md) | Intermediate |
+| Swift 6.4 Concurrency Refinements — Async Defer, Cancellation Shields, and Sendable Ergonomics | [swift-async-defer-cancellation-shields](skills/swift-async-defer-cancellation-shields.md) | Intermediate |
 | Swift Charts 3D — Data Visualization with Chart3D | [swift-charts-3d](skills/swift-charts-3d.md) | Intermediate |
 | Swift Concurrency — Actors | [swift-concurrency-actors](skills/swift-concurrency-actors.md) | Intermediate |
 | Swift InlineArray and Span — Safe, High-Performance Memory | [swift-inlinearray-span](skills/swift-inlinearray-span.md) | Intermediate |
