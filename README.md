@@ -40,6 +40,7 @@ A new release is published automatically on every push to `main`.
 | Networking with URLSession and async/await | [networking-urlsession-async](skills/networking-urlsession-async.md) | Intermediate |
 | NowPlaying Framework — Media Sessions for System Surfaces | [nowplaying-framework](skills/nowplaying-framework.md) | Intermediate |
 | Performance — Memory Management and Profiling | [performance-memory-profiling](skills/performance-memory-profiling.md) | Intermediate |
+| Push Notifications — Rich Payloads, Actions, and Live Activity Updates | [push-notifications-live-activity-updates](skills/push-notifications-live-activity-updates.md) | Intermediate |
 | StoreKit 2 — In-App Purchases and Subscriptions | [storekit2-in-app-purchases](skills/storekit2-in-app-purchases.md) | Intermediate |
 | String Catalogs — Modern Localization in Swift | [string-catalogs-localization](skills/string-catalogs-localization.md) | Intermediate |
 | Swift 6.2 Approachable Concurrency — nonisolated, @concurrent, Typed Throws | [swift-approachable-concurrency](skills/swift-approachable-concurrency.md) | Intermediate |
