@@ -59,6 +59,7 @@ A new release is published automatically on every push to `main`.
 | SwiftUI Accessibility: VoiceOver, Dynamic Type, and Custom Actions | [swiftui-accessibility-voiceover](skills/swiftui-accessibility-voiceover.md) | Intermediate |
 | SwiftUI Adaptive Toolbars — Visibility Priority, Overflow Menus, and Pinned Actions | [swiftui-adaptive-toolbars](skills/swiftui-adaptive-toolbars.md) | Intermediate |
 | SwiftUI Animations — From Implicit to Keyframe | [swiftui-animations](skills/swiftui-animations.md) | Intermediate |
+| SwiftUI AsyncImage — HTTP Caching, URLRequest, and Custom URLSession | [swiftui-asyncimage-caching](skills/swiftui-asyncimage-caching.md) | Intermediate |
 | SwiftUI ContentBuilder — One Result Builder for All Content Types | [swiftui-contentbuilder](skills/swiftui-contentbuilder.md) | Intermediate |
 | SwiftUI Custom Layout Protocol — Building Your Own Stacks | [swiftui-custom-layout-protocol](skills/swiftui-custom-layout-protocol.md) | Intermediate |
 | SwiftUI Document API — WritableDocument, ReadableDocument, and Snapshot-Based Diffing | [swiftui-document-api](skills/swiftui-document-api.md) | Intermediate |
