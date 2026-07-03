@@ -53,6 +53,7 @@ A new release is published automatically on every push to `main`.
 | Swift Protocols and Generics — Building Flexible Abstractions | [swift-protocols-generics](skills/swift-protocols-generics.md) | Intermediate |
 | Swift Regex and RegexBuilder — Type-Safe Pattern Matching | [swift-regex-builder](skills/swift-regex-builder.md) | Intermediate |
 | Swift Result Builders — Creating Custom DSLs | [swift-result-builders](skills/swift-result-builders.md) | Intermediate |
+| Swift Testing and XCTest Interoperability — Migrating with Confidence | [swift-testing-xctest-interop](skills/swift-testing-xctest-interop.md) | Intermediate |
 | Swift Testing Framework — Modern Unit Testing in Swift | [swift-testing-framework](skills/swift-testing-framework.md) | Intermediate |
 | Swift Typed Throws — Precise Error Handling in Swift 6 | [swift-typed-throws](skills/swift-typed-throws.md) | Intermediate |
 | SwiftData — Modern Persistence for Apple Apps | [swiftdata-persistence](skills/swiftdata-persistence.md) | Intermediate |
