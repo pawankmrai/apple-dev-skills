@@ -37,6 +37,7 @@ A new release is published automatically on every push to `main`.
 | Combine and the Observation Framework | [combine-observation-framework](skills/combine-observation-framework.md) | Intermediate |
 | Foundation Models Framework — Dynamic Profiles and Multi-Agent Workflows | [foundation-models-dynamic-profiles](skills/foundation-models-dynamic-profiles.md) | Advanced |
 | Foundation Models Framework — On-Device AI in Swift | [foundation-models-framework](skills/foundation-models-framework.md) | Intermediate |
+| iOS 27 Resizable iPhone Apps — Adaptive Layout Beyond Size Class | [ios27-resizable-iphone-apps](skills/ios27-resizable-iphone-apps.md) | Intermediate |
 | Networking with URLSession and async/await | [networking-urlsession-async](skills/networking-urlsession-async.md) | Intermediate |
 | NowPlaying Framework — Media Sessions for System Surfaces | [nowplaying-framework](skills/nowplaying-framework.md) | Intermediate |
 | Performance — Memory Management and Profiling | [performance-memory-profiling](skills/performance-memory-profiling.md) | Intermediate |
