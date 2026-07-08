@@ -49,6 +49,7 @@ A new release is published automatically on every push to `main`.
 | Swift Charts 3D — Data Visualization with Chart3D | [swift-charts-3d](skills/swift-charts-3d.md) | Intermediate |
 | Swift Concurrency — Actors | [swift-concurrency-actors](skills/swift-concurrency-actors.md) | Intermediate |
 | Swift InlineArray and Span — Safe, High-Performance Memory | [swift-inlinearray-span](skills/swift-inlinearray-span.md) | Intermediate |
+| Swift Iterable Protocol — Borrowing Iteration for Non-Copyable Types | [swift-iterable-protocol](skills/swift-iterable-protocol.md) | Advanced |
 | Swift Macros — Compile-Time Code Generation | [swift-macros](skills/swift-macros.md) | Intermediate |
 | Swift Package Plugins — Build Tools and Custom Commands | [swift-package-plugins](skills/swift-package-plugins.md) | Intermediate |
 | Swift Protocols and Generics — Building Flexible Abstractions | [swift-protocols-generics](skills/swift-protocols-generics.md) | Intermediate |
