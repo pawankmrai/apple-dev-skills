@@ -74,6 +74,7 @@ A new release is published automatically on every push to `main`.
 | SwiftUI ScrollView APIs — Position, Target Behavior, and Scroll Transitions | [swiftui-scrollview-apis](skills/swiftui-scrollview-apis.md) | Intermediate |
 | SwiftUI Swipe Actions Beyond List — swipeActionsContainer in iOS 27 | [swiftui-swipe-actions](skills/swiftui-swipe-actions.md) | Intermediate |
 | SwiftUI WebView — Native Web Content with WebKit | [swiftui-webview-webkit](skills/swiftui-webview-webkit.md) | Intermediate |
+| SwiftUI's @State Macro — Lazy Initialization for Observable Models | [state-macro-lazy-init](skills/state-macro-lazy-init.md) | Intermediate |
 | TipKit — Contextual User Tips in SwiftUI | [tipkit-contextual-tips](skills/tipkit-contextual-tips.md) | Intermediate |
 | UIKit and AppKit Interop with SwiftUI | [uikit-appkit-swiftui-interop](skills/uikit-appkit-swiftui-interop.md) | Intermediate |
 | visionOS Spatial Computing — Persistence, Surfaces, and Spatial Scenes | [visionos-spatial-computing](skills/visionos-spatial-computing.md) | Intermediate |
