@@ -49,6 +49,7 @@ A new release is published automatically on every push to `main`.
 | Swift 6.4 Concurrency Refinements — Async Defer, Cancellation Shields, and Sendable Ergonomics | [swift-async-defer-cancellation-shields](skills/swift-async-defer-cancellation-shields.md) | Intermediate |
 | Swift Charts 3D — Data Visualization with Chart3D | [swift-charts-3d](skills/swift-charts-3d.md) | Intermediate |
 | Swift Concurrency — Actors | [swift-concurrency-actors](skills/swift-concurrency-actors.md) | Intermediate |
+| Swift Concurrency — TaskGroups and AsyncSequence/AsyncStream | [swift-taskgroups-asyncstreams](skills/swift-taskgroups-asyncstreams.md) | Intermediate |
 | Swift InlineArray and Span — Safe, High-Performance Memory | [swift-inlinearray-span](skills/swift-inlinearray-span.md) | Intermediate |
 | Swift Iterable Protocol — Borrowing Iteration for Non-Copyable Types | [swift-iterable-protocol](skills/swift-iterable-protocol.md) | Advanced |
 | Swift Macros — Compile-Time Code Generation | [swift-macros](skills/swift-macros.md) | Intermediate |
