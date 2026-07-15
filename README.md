@@ -85,6 +85,7 @@ A new release is published automatically on every push to `main`.
 | Xcode 27 Agent Skills — Apple's Built-In AI Guidance for Swift Developers | [xcode-agent-skills](skills/xcode-agent-skills.md) | Intermediate |
 | Xcode 27 On-Device Predictive Code Completion | [xcode27-predictive-code-completion](skills/xcode27-predictive-code-completion.md) | Intermediate |
 | Xcode Debugging and Instruments | [xcode-debugging-instruments](skills/xcode-debugging-instruments.md) | Intermediate |
+| XCUITest — UI Testing for SwiftUI Apps | [xcuitest-ui-testing](skills/xcuitest-ui-testing.md) | Intermediate |
 
 ## License
 
