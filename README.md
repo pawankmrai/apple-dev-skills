@@ -35,6 +35,7 @@ A new release is published automatically on every push to `main`.
 | Clean Architecture for iOS Apps | [clean-architecture-ios](skills/clean-architecture-ios.md) | Advanced |
 | CloudKit — iCloud Data Sync for Apple Apps | [cloudkit-sync](skills/cloudkit-sync.md) | Intermediate |
 | Combine and the Observation Framework | [combine-observation-framework](skills/combine-observation-framework.md) | Intermediate |
+| Core Data — Background Contexts, Batch Operations, and Migrations | [core-data-background-contexts](skills/core-data-background-contexts.md) | Intermediate |
 | Foundation Models Framework — Dynamic Profiles and Multi-Agent Workflows | [foundation-models-dynamic-profiles](skills/foundation-models-dynamic-profiles.md) | Advanced |
 | Foundation Models Framework — On-Device AI in Swift | [foundation-models-framework](skills/foundation-models-framework.md) | Intermediate |
 | iOS 27 Resizable iPhone Apps — Adaptive Layout Beyond Size Class | [ios27-resizable-iphone-apps](skills/ios27-resizable-iphone-apps.md) | Intermediate |
