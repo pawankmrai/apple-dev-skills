@@ -86,6 +86,7 @@ A new release is published automatically on every push to `main`.
 | SwiftUI's @State Macro — Lazy Initialization for Observable Models | [state-macro-lazy-init](skills/state-macro-lazy-init.md) | Intermediate |
 | TipKit — Contextual User Tips in SwiftUI | [tipkit-contextual-tips](skills/tipkit-contextual-tips.md) | Intermediate |
 | UIKit and AppKit Interop with SwiftUI | [uikit-appkit-swiftui-interop](skills/uikit-appkit-swiftui-interop.md) | Intermediate |
+| Vision Framework — Interactive Tap-to-Segment Image Analysis | [vision-interactive-segmentation](skills/vision-interactive-segmentation.md) | Intermediate |
 | visionOS Spatial Computing — Persistence, Surfaces, and Spatial Scenes | [visionos-spatial-computing](skills/visionos-spatial-computing.md) | Intermediate |
 | WidgetKit — Home Screen, Lock Screen, and Interactive Widgets | [widgetkit-home-lock-screen](skills/widgetkit-home-lock-screen.md) | Intermediate |
 | Xcode 27 Agent Skills — Apple's Built-In AI Guidance for Swift Developers | [xcode-agent-skills](skills/xcode-agent-skills.md) | Intermediate |
