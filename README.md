@@ -75,6 +75,7 @@ A new release is published automatically on every push to `main`.
 | SwiftUI ContentBuilder — One Result Builder for All Content Types | [swiftui-contentbuilder](skills/swiftui-contentbuilder.md) | Intermediate |
 | SwiftUI Custom Layout Protocol — Building Your Own Stacks | [swiftui-custom-layout-protocol](skills/swiftui-custom-layout-protocol.md) | Intermediate |
 | SwiftUI Document API — WritableDocument, ReadableDocument, and Snapshot-Based Diffing | [swiftui-document-api](skills/swiftui-document-api.md) | Intermediate |
+| SwiftUI @Entry Macro — Simplifying Custom Environment Values | [swiftui-entry-macro-environment-values](skills/swiftui-entry-macro-environment-values.md) | Intermediate |
 | SwiftUI Item-Bound Dialogs and Alerts — Binding<T?> Presentations in iOS 27 | [swiftui-item-bound-presentations](skills/swiftui-item-bound-presentations.md) | Intermediate |
 | SwiftUI Liquid Glass — Building with the New Design Language | [swiftui-liquid-glass](skills/swiftui-liquid-glass.md) | Intermediate |
 | SwiftUI Navigation and Data Flow | [swiftui-navigation-data-flow](skills/swiftui-navigation-data-flow.md) | Intermediate |
