@@ -42,6 +42,7 @@ A new release is published automatically on every push to `main`.
 | Foundation Models Framework — The LanguageModel Protocol for Provider-Agnostic Inference | [foundation-models-languagemodel-protocol](skills/foundation-models-languagemodel-protocol.md) | Advanced |
 | iOS 27 Resizable iPhone Apps — Adaptive Layout Beyond Size Class | [ios27-resizable-iphone-apps](skills/ios27-resizable-iphone-apps.md) | Intermediate |
 | MapKit for SwiftUI — Building Location-Aware Apps | [mapkit-swiftui](skills/mapkit-swiftui.md) | Intermediate |
+| MLX Swift — Custom On-Device ML with Metal 4 Neural Accelerators | [mlx-swift-metal4](skills/mlx-swift-metal4.md) | Advanced |
 | Networking with URLSession and async/await | [networking-urlsession-async](skills/networking-urlsession-async.md) | Intermediate |
 | NowPlaying Framework — Media Sessions for System Surfaces | [nowplaying-framework](skills/nowplaying-framework.md) | Intermediate |
 | Performance — Memory Management and Profiling | [performance-memory-profiling](skills/performance-memory-profiling.md) | Intermediate |
