@@ -71,6 +71,7 @@ A new release is published automatically on every push to `main`.
 | Swift Testing and XCTest Interoperability — Migrating with Confidence | [swift-testing-xctest-interop](skills/swift-testing-xctest-interop.md) | Intermediate |
 | Swift Testing Framework — Modern Unit Testing in Swift | [swift-testing-framework](skills/swift-testing-framework.md) | Intermediate |
 | Swift Typed Throws — Precise Error Handling in Swift 6 | [swift-typed-throws](skills/swift-typed-throws.md) | Intermediate |
+| Swift withDeadline — Composable, Drift-Free Timeouts for Structured Concurrency | [swift-with-deadline](skills/swift-with-deadline.md) | Intermediate |
 | SwiftData — Modern Persistence for Apple Apps | [swiftdata-persistence](skills/swiftdata-persistence.md) | Intermediate |
 | SwiftUI Accessibility: VoiceOver, Dynamic Type, and Custom Actions | [swiftui-accessibility-voiceover](skills/swiftui-accessibility-voiceover.md) | Intermediate |
 | SwiftUI Adaptive Toolbars — Visibility Priority, Overflow Menus, and Pinned Actions | [swiftui-adaptive-toolbars](skills/swiftui-adaptive-toolbars.md) | Intermediate |
