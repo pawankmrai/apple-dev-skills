@@ -26,10 +26,6 @@ import SwiftUI
         .padding()
 }
 
-#Preview("Landscape", traits: .landscapeLeft) {
-    ProfileCard(user: .sample)
-}
-
 // UIKit works too — return a view or view controller.
 #Preview("Legacy settings") {
     let vc = SettingsViewController()
@@ -116,7 +112,7 @@ Now any preview opts in with a single trait, and `@Previewable @Query` reads the
 }
 ```
 
-Modifiers with no expensive setup can omit `makeSharedContext()`; the context type defaults to `Void`.
+Simple modifiers can omit `makeSharedContext()`; the context defaults to `Void`.
 
 ## Previewing Widgets and Live Activities
 
@@ -145,8 +141,7 @@ WidgetKit has dedicated `#Preview` overloads that render a timeline you can scru
 - **Use `PreviewModifier` for anything async or expensive**; the shared context is cached, keeping canvas refreshes fast.
 - **Inject mocks, not live services.** Previews that hit the network are slow and flaky.
 - **Place `@Previewable` declarations first** in the closure; the macro rejects them nested inside other views.
-- **Split large modules** — previews build the whole target, so smaller packages mean faster previews.
-- **Combine traits** (`.sampleLibrary, .landscapeLeft`) rather than writing bespoke wrapper views.
+- **Combine traits** (`.sampleLibrary, .sizeThatFitsLayout`) rather than writing bespoke wrapper views.
 
 ## References
 
