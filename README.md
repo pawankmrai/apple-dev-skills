@@ -70,6 +70,7 @@ A new release is published automatically on every push to `main`.
 | Swift SDK for Android — Sharing Swift Logic Across Platforms | [swift-sdk-for-android](skills/swift-sdk-for-android.md) | Intermediate |
 | Swift Subprocess — Structured Concurrency for Process Execution | [swift-subprocess](skills/swift-subprocess.md) | Intermediate |
 | Swift Testing and XCTest Interoperability — Migrating with Confidence | [swift-testing-xctest-interop](skills/swift-testing-xctest-interop.md) | Intermediate |
+| Swift Testing Exit Tests and Attachments — Testing Crashes and Capturing Diagnostics | [swift-testing-exit-tests-attachments](skills/swift-testing-exit-tests-attachments.md) | Intermediate |
 | Swift Testing Framework — Modern Unit Testing in Swift | [swift-testing-framework](skills/swift-testing-framework.md) | Intermediate |
 | Swift Typed Throws — Precise Error Handling in Swift 6 | [swift-typed-throws](skills/swift-typed-throws.md) | Intermediate |
 | Swift withDeadline — Composable, Drift-Free Timeouts for Structured Concurrency | [swift-with-deadline](skills/swift-with-deadline.md) | Intermediate |
