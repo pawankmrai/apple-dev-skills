@@ -61,6 +61,7 @@ A new release is published automatically on every push to `main`.
 | Swift InlineArray and Span — Safe, High-Performance Memory | [swift-inlinearray-span](skills/swift-inlinearray-span.md) | Intermediate |
 | Swift Iterable Protocol — Borrowing Iteration for Non-Copyable Types | [swift-iterable-protocol](skills/swift-iterable-protocol.md) | Advanced |
 | Swift Macros — Compile-Time Code Generation | [swift-macros](skills/swift-macros.md) | Intermediate |
+| Swift Observations — Streaming @Observable Changes as an AsyncSequence | [swift-observations-async-sequence](skills/swift-observations-async-sequence.md) | Intermediate |
 | Swift Package Plugins — Build Tools and Custom Commands | [swift-package-plugins](skills/swift-package-plugins.md) | Intermediate |
 | Swift Package Traits — Feature Flags and Optional Dependencies | [swift-package-traits](skills/swift-package-traits.md) | Intermediate |
 | Swift Parameter Packs — Variadic Generics for Type-Safe APIs | [swift-parameter-packs](skills/swift-parameter-packs.md) | Intermediate |
