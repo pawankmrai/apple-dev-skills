@@ -76,6 +76,7 @@ A new release is published automatically on every push to `main`.
 | Swift Typed Throws — Precise Error Handling in Swift 6 | [swift-typed-throws](skills/swift-typed-throws.md) | Intermediate |
 | Swift withDeadline — Composable, Drift-Free Timeouts for Structured Concurrency | [swift-with-deadline](skills/swift-with-deadline.md) | Intermediate |
 | SwiftData — Modern Persistence for Apple Apps | [swiftdata-persistence](skills/swiftdata-persistence.md) | Intermediate |
+| SwiftData Model Inheritance — Class Hierarchies and Polymorphic Queries | [swiftdata-model-inheritance](skills/swiftdata-model-inheritance.md) | Intermediate |
 | SwiftUI Accessibility: VoiceOver, Dynamic Type, and Custom Actions | [swiftui-accessibility-voiceover](skills/swiftui-accessibility-voiceover.md) | Intermediate |
 | SwiftUI Adaptive Toolbars — Visibility Priority, Overflow Menus, and Pinned Actions | [swiftui-adaptive-toolbars](skills/swiftui-adaptive-toolbars.md) | Intermediate |
 | SwiftUI Animations — From Implicit to Keyframe | [swiftui-animations](skills/swiftui-animations.md) | Intermediate |
