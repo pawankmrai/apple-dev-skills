@@ -99,6 +99,7 @@ A new release is published automatically on every push to `main`.
 | TipKit — Contextual User Tips in SwiftUI | [tipkit-contextual-tips](skills/tipkit-contextual-tips.md) | Intermediate |
 | Trust Insights — Detecting Coerced Actions in Sensitive Flows | [trust-insights-scam-detection](skills/trust-insights-scam-detection.md) | Advanced |
 | UIKit and AppKit Interop with SwiftUI | [uikit-appkit-swiftui-interop](skills/uikit-appkit-swiftui-interop.md) | Intermediate |
+| UIKit Scene Lifecycle Migration — Adopting UISceneDelegate for iOS 27 | [uikit-scene-lifecycle-migration](skills/uikit-scene-lifecycle-migration.md) | Intermediate |
 | Vision Framework — Interactive Tap-to-Segment Image Analysis | [vision-interactive-segmentation](skills/vision-interactive-segmentation.md) | Intermediate |
 | visionOS Spatial Computing — Persistence, Surfaces, and Spatial Scenes | [visionos-spatial-computing](skills/visionos-spatial-computing.md) | Intermediate |
 | WidgetKit — Home Screen, Lock Screen, and Interactive Widgets | [widgetkit-home-lock-screen](skills/widgetkit-home-lock-screen.md) | Intermediate |
